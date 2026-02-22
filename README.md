@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mohdtauseefansari34@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kZzsNkYbXrQp4bRLsicWWTwbDb4yfHVS/view?usp=drive_link](https://drive.google.com/file/d/1kZzsNkYbXrQp4bRLsicWWTwbDb4yfHVS/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1dvw5J9Y4G9nggI0A0isVXt2p_VDwmEyL/view?usp=drive_link]
 
 ###
 
