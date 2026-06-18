@@ -1,84 +1,120 @@
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1quEjkwR8Wp3YRLkcDH6fYtF9wJIO0YEL" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Mohd Tauseef Ansari</h1>
-<h3 align="center">A passionate Full Stack MERN developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdtsf&label=Profile%20views&color=0e75b6&style=flat" alt="mohdtsf" /> </p>
+<h3 align="center">
+Full-Stack Developer | Building Secure & Scalable Web Applications
+</h3>
 
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mohdtsf&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW9lam9qOXN2b251bWJ5ZnpjNjI2enA1NTBtcWMxNHl5cGhoNHk5aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif"  />
+<img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW9lam9qOXN2b251bWJ5ZnpjNjI2enA1NTBtcWMxNHl5cGhoNHk5aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif"/>
 
-- 🌱 I’m currently Pursuing **M.Sc Cyber Security & Digital Forensics**
+### 🚀 About Me
 
-- 👨‍💻 All of my projects are available at [https://glib-move-d78.notion.site/MOHD-TAUSEEF-ANSARI-478249540cf64460b5649064fdd33482?pvs=4](https://glib-move-d78.notion.site/MOHD-TAUSEEF-ANSARI-478249540cf64460b5649064fdd33482?pvs=4)
+* 💻 Full-Stack Developer with **1+ year of experience**
+* 🔭 Building modern, scalable, and secure web applications
+* 🌱 Currently exploring **AI Applications, Cloud Technologies, and System Design**
+* 🛡️ Passionate about **Cyber Security, Network Analysis, and Secure Systems**
+* ⚡ Strong focus on **performance, clean architecture, and problem-solving**
+* 🎓 M.Sc. in **Cyber Security & Digital Forensics**
+* 👨‍💻 Portfolio: **mohd-tauseef-ansari-portfolio.vercel.app**
+* 📫 Email: **[mohdtauseefansari34@gmail.com](mailto:mohdtauseefansari34@gmail.com)**
+* 📍 New Delhi, India
 
-- 📫 How to reach me **mohdtauseefansari34@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dvw5J9Y4G9nggI0A0isVXt2p_VDwmEyL/view?usp=drive_link]
+### 📄 Resume
 
-###
-
-<h3 align="left">Languages and Tools:</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-</div>
-
-###
-
-<h3 align="left">Connect with me:</h3>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/mohd-tauseef-ansari/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<p>
+  <a href="https://drive.google.com/file/d/1bftVBfszvL1Bq_qAuMh2ZZVVE9dY1_a0/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/View_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
-  <a href="https://x.com/MoTauseefAnsari" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
+</p>
 
-###
+---
 
-###
+### 🌐 Connect With Me
+
+<p align="left">
+<a href="mailto:mohdtauseefansari34@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mohd-tauseef-ansari/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Mohdtsf" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://mohd-tauseef-ansari-portfolio.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+#### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp,c" />
+</p>
+
+#### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,bootstrap" />
+</p>
+
+#### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+#### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+#### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohdtsf&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohdtsf&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohdtsf&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🐍 Contribution Graph
+
+⭐ Always interested in collaborating on Full-Stack Development, Cyber Security, AI Applications, and Open Source Projects.
 
 <br clear="both">
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
-###
+
